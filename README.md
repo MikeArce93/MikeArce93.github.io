@@ -1,1 +1,1 @@
-# Portfolio site desgined using Focus Theme #
+# Front End Website coded and uploaded through github #
